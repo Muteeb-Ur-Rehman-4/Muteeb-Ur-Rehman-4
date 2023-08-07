@@ -2,8 +2,8 @@
 - 👀 I’m interested in football, web development and video games.
 - 🌱 I’m currently learning Full stack web development.
 - 💞️ I’m currently open to new opportunities. It could be a full or part-time job.
-- 📫 How to reach me :
--1) My linkedin profile : https://www.linkedin.com/in/muteeb-ur-rehman4/
+
+
 
 <!---
 Muteeb-Ur-Rehman-4/Muteeb-Ur-Rehman-4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
